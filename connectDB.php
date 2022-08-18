@@ -9,9 +9,9 @@
 <body>
 <?php
 $host = "localhost";
-$user = "id4657924_admin";
-$password = "admin";
-$dbname = "id4657924_doujintrade";
+$user = "admin";
+$password = "pw";
+$dbname = "dbname";
 
 $connect = mysqli_connect($host, $user, $password, $dbname);
 
