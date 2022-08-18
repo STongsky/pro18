@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$dbname = "id4657924_doujintrade";
-$username = "id4657924_admin";
-$password = "admin";
+$dbname = "dbname";
+$username = "admin";
+$password = "pw";
 
 
 
